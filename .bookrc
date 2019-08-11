@@ -1,0 +1,22 @@
+{
+  "name": "The Monk",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "A Romance",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-monk-a-romance/master/assets",
+  "book_id": 994,
+  "book_url": "https://bubblin.io/book/the-monk-by-m-g-lewis"
+}
